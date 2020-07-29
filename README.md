@@ -1,8 +1,6 @@
 Privacy Policy
 
-Privacy Policy
-
-Emon Saqibh built the ReWalls- HD Wallpapers app as a Commercial app. This SERVICE is provided by Emon Saqibh and is intended for use as is.
+Emon Saqibh built the ReWalls- HD Wallpapers app as a Commercial app. This service is provided by Emon Saqibh and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -18,8 +16,10 @@ The app does use third party services that may collect information used to ident
 
 Link to privacy policy of third party service providers used by the app
 
-Google Play Services
-One Signal
+[Google Play Services](https://policies.google.com/privacy)
+
+[One Signal](https://onesignal.com/privacy_policy)
+
 Log Data
 
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
